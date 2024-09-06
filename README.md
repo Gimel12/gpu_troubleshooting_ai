@@ -1,4 +1,4 @@
-# GPU troubleshooting AI 
+# GPU troubleshooting AI - 08/2024
 
 A PyQt5-based desktop application that allows you to run a GPU bandwidth test, analyze the results, and check the UUIDs of the GPUs in the system. The app also allows you to save GPU UUIDs in a JSON file for easy reference.
 
